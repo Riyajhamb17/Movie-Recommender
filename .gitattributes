@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+C:UserspalakOneDriveDesktopml_projectmovie-recommendertmdb_5000_credits.csv filter=lfs diff=lfs merge=lfs -text
